@@ -40,11 +40,11 @@ CivicProof replaces manual checks with an **Automated Trust Loop**:
 
 ### 1. The Command Center Dashboard
 *Real-time metrics, geospatial booth mapping, and task tracking.*
-![CivicProof Dashboard](Screenshot%202026-02-16%20134807.jpg)
+![CivicProof Dashboard](Screenshot%202026-02-16%20134807.png)
 
 ### 2. Live Activity Map & Status Updates
 *Monitoring task statuses (Pending, Verified, Rejected) across different city zones.*
-![Activity Map](Screenshot%202026-02-16%20134822.jpg)
+![Activity Map](Screenshot%202026-02-16%20134822.png)
 
 ### 3. AI Verification Override 
 *Testing the AI engine directly from the portal.*
