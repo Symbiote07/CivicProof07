@@ -60,10 +60,6 @@ CivicProof replaces manual checks with an **Automated Trust Loop**:
 *Monitoring task statuses (Pending, Verified, Rejected) across different city zones.*
 ![Activity Map](Screenshot%202026-02-16%20134822.png)
 
-### 3. AI Verification Override 
-*Testing the AI engine directly from the portal.*
-![Verification Override](Screenshot%202026-02-15%20211826.png)
-
 ---
 
 ## 🛠️ Technology Stack
